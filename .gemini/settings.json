@@ -1,0 +1,19 @@
+{
+  "general": {
+    "preferredEditor": "vscode",
+    "vimMode": false,
+    "checkpointing": {
+      "enabled": true
+    }
+  },
+  "context": {
+    "fileFiltering": {
+      "respectGitIgnore": false
+    }
+  },
+  "tools": {
+    "shell": {
+      "enableInteractiveShell": true
+    }
+  }
+}
